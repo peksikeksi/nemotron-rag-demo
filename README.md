@@ -24,12 +24,12 @@ Nemotron-RAG-Demo is a local implementation of a Retrieval-Augmented Generation 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Nemotron-RAG-Demo.git
+   git clone https://github.com/peksikeksi/nemotron-rag-demo.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Nemotron-RAG-Demo
+   cd nemotron-rag-demo
 
 3. Install the required dependencies:
 
